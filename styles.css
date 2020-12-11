@@ -373,4 +373,8 @@ div.desc {
 .par {
     text-align: center;
     margin: 0;
+    font-size: large;
+    /* color: #Ecc19c; */
+    /* color:#1e847f; */
+    color: #45ada8;
 }
